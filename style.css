@@ -1,0 +1,43 @@
+h6 {
+    color: rgb(245, 228, 228);}
+h1{
+    color: beige;
+  
+}
+h5{
+    color: rgb(245, 239, 239);
+}
+h2{
+    color: rgb(241, 9, 9);
+}
+.card{
+    color: rgb(17, 17, 17);
+}
+.row
+{
+    color: rgb(8, 8, 8);
+    text-decoration: double;
+  
+}
+h4{
+    color: black;
+    
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    
+  }
+  p{
+    font-size: 15px;
+}.rounded {
+    border-radius: 50px;
+}
+.menu-item{
+   display: inline;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  
+}
